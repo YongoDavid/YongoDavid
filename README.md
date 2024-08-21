@@ -1,5 +1,7 @@
 ## Hi there 👋
 ## Hi my name is David Yongo
+
+<img src="ai-generated-8366100_1280.jpg">
 <!--
 **YongoDavid/YongoDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
