@@ -1,18 +1,12 @@
-## Hi there 👋
+
 ## Hi my name is David Yongo
 
 <img src="ai-generated-8366100_1280.jpg">
-<!--
-**YongoDavid/YongoDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Ruby and Rails
+- 🌱 I’m currently learning AWS , 
+- 👯 I’m looking to collaborate on real world projects
+- 📫 How to reach me: davidyongo9@gmail.com
+- ⚡ Fun fact: I love building.
+My Tools :
+[![My Skills](https://skillicons.dev/icons?i=c,bootstrap,css,react,discord,express,figma,git,github,html,js,mongodb,mysql,nodejs,npm,postman,sqlite,ts&perline=3)](https://skillicons.dev)
