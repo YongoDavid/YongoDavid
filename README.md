@@ -1,164 +1,229 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00d4ff,100:7b2fff&height=200&section=header&text=YONGO%20DAVID&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=16&animation=twinkling&fontAlign=50" />
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--   HOLOGRAPHIC VENOM HEADER + BOOT SEQUENCE         -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
-<!-- TYPING ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:001133,100:00d4ff&height=300&section=header&text=YONGO%20DAVID&fontSize=82&fontColor=00d4ff&fontAlignY=45&desc=◈%20SOFTWARE%20ENGINEER%20%20◈%20%20ARCHITECT%20OF%20TOMORROW%20◈&descAlignY=65&descSize=14&animation=twinkling&stroke=7b2fff&strokeWidth=2" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Software+Developer+%F0%9F%9A%80;Building+Apps+That+Change+The+World+%F0%9F%8C%8D;Open+To+World-Impacting+Collaborations+%F0%9F%A4%9D;Currently+Mastering+Ruby+on+Rails+%26+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=2200&pause=700&color=00D4FF&background=00000000&center=true&vCenter=true&width=720&height=38&lines=%5BSYS%5D+Initializing+developer+identity...+OK;%5BSYS%5D+JavaScript+%7C+TypeScript+%7C+Ruby+on+Rails...+ARMED;%5BSYS%5D+React+%7C+Node.js+%7C+GraphQL+%7C+AWS...+ONLINE;%5BSYS%5D+Mission%3A+Build+software+that+changes+the+world;%5BSYS%5D+Collaboration+protocols...+ACTIVE+%E2%96%88" alt="Boot" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YongoDavid&style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/◈_STATUS-OPEN%20TO%20HIRE-00ff88?style=for-the-badge&labelColor=000000" />
 &nbsp;
-<a href="mailto:davidyongo9@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-davidyongo9%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YongoDavid&style=for-the-badge&color=00d4ff&labelColor=000000&label=PROFILE+SCANS" />
 &nbsp;
-<a href="https://www.github.com/YongoDavid">
-  <img src="https://img.shields.io/badge/GITHUB-YongoDavid-7b2fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-</a>
+<img src="https://img.shields.io/badge/BASE-AFRICA%20🌍-7b2fff?style=for-the-badge&labelColor=000000" />
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<div align="center">
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--         IDENTITY FILE + DIAGNOSTICS                -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
-## `< ABOUT ME />`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
-
-```typescript
-const YongoDavid = {
-  role        : "Software Developer",
-  location    : "🌍 Africa",
-  email       : "davidyongo9@gmail.com",
-  currentFocus: ["Ruby on Rails", "AWS Cloud", "Scalable Systems"],
-  openTo      : "Collaborations that impact the world 🌐",
-  funFact     : "I know Iron Man... don't tell anyone 🦾",
-  philosophy  : "Code is not just logic — it's art with purpose.",
-};
+```
+╔══════════════════════════════════════╗
+║       DEVELOPER IDENTITY FILE        ║
+╠══════════════════════════════════════╣
+║  NAME     ◈  Yongo David             ║
+║  ROLE     ◈  Software Engineer       ║
+║  MISSION  ◈  Code That Changes World ║
+║  NODE     ◈  github/YongoDavid       ║
+╠══════════════════════════════════════╣
+║  ACTIVE LEARNING MODULES             ║
+║   ▸ Ruby on Rails  ████████░░  80%   ║
+║   ▸ AWS Cloud      ██████░░░░  60%   ║
+║   ▸ GraphQL API    ████████░░  80%   ║
+╠══════════════════════════════════════╣
+║  PRIMARY DIRECTIVES                  ║
+║   ✦ Build apps that outlive moments  ║
+║   ✦ Open to world-impacting collab   ║
+║   ✦ I know Iron Man 🦾 classified   ║
+╚══════════════════════════════════════╝
 ```
 
+</td>
+<td width="50%" valign="top">
+
+```
+╔══════════════════════════════════════╗
+║         SYSTEM DIAGNOSTICS           ║
+╠══════════════════════════════════════╣
+║  FRONTEND    ◈  [██████████]  LIVE  ║
+║  BACKEND     ◈  [██████████]  LIVE  ║
+║  DATABASES   ◈  [████████░░]  ARMED ║
+║  CLOUD/AWS   ◈  [██████░░░░]  INIT  ║
+╠══════════════════════════════════════╣
+║  PERSONALITY MODULES                 ║
+║   ⬡ Problem Solver     ENGAGED      ║
+║   ⬡ Team Collaborator  ENGAGED      ║
+║   ⬡ Lifelong Learner   ENGAGED      ║
+║   ⬡ Iron Man Protocol  CLASSIFIED   ║
+╠══════════════════════════════════════╣
+║  SIGNAL ◈ davidyongo9@gmail.com      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-<!-- TECH STACK -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--                 TECH ARSENAL                       -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-## `< TECH ARSENAL />`
+## ⬡ · TECH ARSENAL · DEPLOYED SYSTEMS · ⬡
 
-### ⚡ Languages & Frameworks
+### `[ CORE LANGUAGES ]`
+<img src="https://skillicons.dev/icons?i=js,ts,ruby,html,css&theme=dark&perline=5" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### `[ FRAMEWORKS & RUNTIME ]`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,rails,bootstrap&theme=dark&perline=5" />
 
-### ⚛️ Frameworks & Libraries
+### `[ DATA LAYER & CLOUD ]`
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,graphql,aws&theme=dark&perline=4" />
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-</p>
+### `[ DEVELOPMENT ENVIRONMENT ]`
+<img src="https://skillicons.dev/icons?i=git,vscode,xcode,github&theme=dark&perline=4" />
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--           LIVE PERFORMANCE DASHBOARD               -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-## `< GITHUB METRICS />`
+## ◈ · PERFORMANCE METRICS · LIVE DASHBOARD · ◈
 
 <br/>
 
 <a href="https://github.com/YongoDavid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YongoDavid&show_icons=true&count_private=true&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&bg_color=0d0d0d&hide_border=false&border_color=00d4ff&border_radius=10&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongoDavid&layout=compact&title_color=00d4ff&text_color=ffffff&bg_color=0d0d0d&hide_border=false&border_color=00d4ff&border_radius=10&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YongoDavid">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YongoDavid&stroke=00d4ff&background=0d0d0d&ring=7b2fff&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=false&border=00d4ff&border_radius=10" />
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/YongoDavid">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YongoDavid&bg_color=0d0d0d&color=00d4ff&line=7b2fff&point=ffffff&area_color=7b2fff&area=true&hide_border=false&border_color=00d4ff&custom_title=⚡%20Contribution%20Graph&title_color=00d4ff&radius=10" />
-</a>
-
-</div>
-
----
-
-<!-- MISSION STATEMENT -->
-<div align="center">
-
-## `< MISSION />`
-
-<br/>
-
-> *"I don't just write code — I engineer experiences, solve real problems,*
-> *and build systems that outlive the moment they were created."*
->
-> **— Yongo David**
-
-<br/>
-
-<!-- OPEN TO WORK BANNER -->
-<img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLABORATE-World--Impacting_Projects-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
-
-<br/><br/>
-
-<!-- CONTACT -->
-### 📡 Let's Connect
-
-<a href="mailto:davidyongo9@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=YongoDavid&show_icons=true&count_private=true&include_all_commits=true&title_color=00d4ff&text_color=c9d1d9&icon_color=7b2fff&bg_color=0d0d1a&border_color=00d4ff&border_radius=12&custom_title=⚡+OUTPUT+METRICS" />
 </a>
 &nbsp;
-<a href="https://www.github.com/YongoDavid">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+<a href="https://github.com/YongoDavid">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongoDavid&layout=compact&title_color=00d4ff&text_color=c9d1d9&bg_color=0d0d1a&border_color=00d4ff&border_radius=12&langs_count=8&custom_title=🧬+LANGUAGE+DNA" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YongoDavid">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YongoDavid&theme=radical&background=0d0d1a&border=00d4ff&stroke=7b2fff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=7b2fff&dates=888888&hide_border=false&border_radius=12" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YongoDavid">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YongoDavid&bg_color=0d0d1a&color=00d4ff&line=7b2fff&point=00ff88&area_color=00d4ff&area=true&hide_border=false&border_color=00d4ff&custom_title=◈+NEURAL+COMMIT+STREAM&title_color=00d4ff&radius=12" />
 </a>
 
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d0d0d&height=120&section=footer&animation=twinkling" />
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--               ACHIEVEMENT MATRIX                   -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <sub>⚡ Crafted with intention by <strong>Yongo David</strong> · The future is built one commit at a time.</sub>
+
+## ◈ · ACHIEVEMENT MATRIX · ◈
+
+<a href="https://github.com/YongoDavid">
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=YongoDavid&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7" />
+</a>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--            CONTRIBUTION SNAKE ANIMATION            -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## ◈ · GRID TRAVERSAL · COMMIT SNAKE · ◈
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YongoDavid/YongoDavid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YongoDavid/YongoDavid/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YongoDavid/YongoDavid/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+
+> ⚙️ *To enable the animated snake: go to your `YongoDavid/YongoDavid` repo → Actions tab → Enable workflows → Add the [snake workflow](https://github.com/marketplace/actions/generate-snake-animation)*
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--             FINAL TRANSMISSION                     -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## ◈ · TRANSMISSION · ◈
+
+<br/>
+
+```
+ ╔═══════════════════════════════════════════════════════════════════╗
+ ║                                                                   ║
+ ║   "I don't just write code.                                       ║
+ ║    I architect systems that outlast the moment they're built.     ║
+ ║    Every commit, every deployment, every function —               ║
+ ║    is a brick in the future I am constructing."                   ║
+ ║                                                                   ║
+ ║                                          — YONGO DAVID            ║
+ ╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_OPEN_TO_COLLABORATE-World--Changing+Projects+Only-00ff88?style=for-the-badge&labelColor=0d0d1a" />
+
+<br/><br/>
+
+### 📡 ESTABLISH CONNECTION
+
+<a href="mailto:davidyongo9@gmail.com">
+<img src="https://img.shields.io/badge/✉_SIGNAL-davidyongo9%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.github.com/YongoDavid">
+<img src="https://img.shields.io/badge/⬡_NODE-YongoDavid-7b2fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a" />
+</a>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--                  VENOM FOOTER                      -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7b2fff,100:000000&height=160&section=footer&animation=twinkling&stroke=00d4ff&strokeWidth=1" />
+
+<div align="center">
+
+```
+[ UPTIME: ∞ ] · [ BUGS SQUASHED: COUNTLESS ] · [ COFFEE: CLASSIFIED ]
+▓▓▓▓▓▓▓▓▓▓▓▓   YONGO DAVID · BUILT WITH PURPOSE   ▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
 </div>
